@@ -1,4 +1,4 @@
 # images
 images
 
-https://ru.pinterest.com/wikiskyy/
+https://pinterest.com/wikiskyy/
